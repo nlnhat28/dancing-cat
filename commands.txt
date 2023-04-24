@@ -1,0 +1,3 @@
+cat.color = "gradient" ("random", "blue", ...any name of color) 
+cat.size = 20
+cat.speed = 1
